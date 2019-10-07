@@ -1,7 +1,7 @@
 # shadow-quill
 Modified Quill Rich Text Editor for Shadow Dom
 
-# @fangku/shadow-quill
+# shadow-quill
 
 [![npm (scoped)](https://img.shields.io/badge/npm-shadow__quill-orange)](https://www.npmjs.com/package/shadow-quill)
 
