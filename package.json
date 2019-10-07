@@ -1,6 +1,6 @@
 {
   "name": "shadow-quill",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Quill Rich Text Editor Supporting Shadow Dom",
   "license": "MIT",
   "repository": {
