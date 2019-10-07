@@ -1,6 +1,6 @@
 {
   "name": "shadow-quill",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Quill Rich Text Editor Supporting Shadow Dom",
   "license": "MIT",
   "repository": {
@@ -8,6 +8,10 @@
     "url": "https://github.com/fangkunning/shadow-quill.git"
   },
   "main": "quill.js",
+  "files": [
+    "quill.js",
+    "quill.snow.css"
+  ],
   "keywords": [
     "shadow dom",
     "npm",
