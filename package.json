@@ -1,0 +1,24 @@
+{
+  "name": "shadow-quill",
+  "version": "1.0.4",
+  "description": "Quill Rich Text Editor Supporting Shadow Dom",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangkunning/shadow-quill.git"
+  },
+  "keywords": [
+    "shadow dom",
+    "npm",
+    "package",
+    "fangku",
+    "quill"
+  ],
+  "bugs": {
+    "url": "https://github.com/fangkunning/shadow-quill/issues"
+  },
+  "homepage": "https://github.com/fangkunning/shadow-quill#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
